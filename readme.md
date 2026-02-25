@@ -1,2 +1,1 @@
-# gn-math
--# web port by s, l, a, (etc.)
+# web port by slqnt (https://edu.aptutorfinder.com)
